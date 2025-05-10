@@ -731,3 +731,7 @@ except
 excepting
 exes
 enough
+i
+ive
+im
+am
