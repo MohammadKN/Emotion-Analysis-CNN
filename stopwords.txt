@@ -64,6 +64,9 @@ nethermost
 necessary
 necessariest
 necessarier
+http
+href
+www
 never
 nevertheless
 nigh
